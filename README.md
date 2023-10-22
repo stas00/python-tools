@@ -5,4 +5,4 @@ Tools and cheatsheets:
 - [Benchmarks](benchmark)
 - [setup files](setup)
 - [unittest](unittest)
-- [my python cheatsheet](python.txt)
+- [python cheatsheet](python.txt)
